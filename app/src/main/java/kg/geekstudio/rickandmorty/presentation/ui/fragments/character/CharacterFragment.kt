@@ -9,11 +9,11 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import kg.geekstudio.rickandmorty.R
 import kg.geekstudio.rickandmorty.databinding.FragmentCharacterBinding
 import kg.geekstudio.rickandmorty.presentation.adapters.CharacterPagingAdapter
-import kg.geekstudio.rickandmorty.presentation.base.BaseFragment
+import kg.geekstudio.rickandmorty.core.base.BaseFragment
 import kg.geekstudio.rickandmorty.presentation.model.CharacterFilter
 import org.koin.androidx.viewmodel.ext.android.viewModel
 import kg.geekstudio.rickandmorty.presentation.adapters.paging.LoadStateAdapter
-import kg.geekstudio.rickandmorty.presentation.extensions.resultListener
+import kg.geekstudio.rickandmorty.core.extensions.resultListener
 
 class CharacterFragment :
     BaseFragment<CharacterViewModel, FragmentCharacterBinding>(R.layout.fragment_character) {

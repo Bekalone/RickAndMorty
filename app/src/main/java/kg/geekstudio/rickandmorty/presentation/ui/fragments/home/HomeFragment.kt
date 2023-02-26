@@ -5,7 +5,7 @@ import com.google.android.material.tabs.TabLayoutMediator
 import kg.geekstudio.rickandmorty.R
 import kg.geekstudio.rickandmorty.databinding.FragmentHomeBinding
 import kg.geekstudio.rickandmorty.presentation.adapters.HomeViewPagerAdapter
-import kg.geekstudio.rickandmorty.presentation.base.BaseFragmentWithoutViewModel
+import kg.geekstudio.rickandmorty.core.base.BaseFragmentWithoutViewModel
 
 class HomeFragment : BaseFragmentWithoutViewModel<FragmentHomeBinding>(R.layout.fragment_home) {
 

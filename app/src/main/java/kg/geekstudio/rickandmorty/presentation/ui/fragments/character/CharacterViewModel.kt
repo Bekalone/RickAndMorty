@@ -1,7 +1,7 @@
 package kg.geekstudio.rickandmorty.presentation.ui.fragments.character
 
 import kg.geekstudio.domain.usecase.FetchCharacterUseCase
-import kg.geekstudio.rickandmorty.presentation.base.BaseViewModel
+import kg.geekstudio.rickandmorty.core.base.BaseViewModel
 import kg.geekstudio.rickandmorty.presentation.model.toUI
 
 class CharacterViewModel(private val fetchCharacterUseCase: FetchCharacterUseCase): BaseViewModel() {

@@ -9,7 +9,7 @@ import kg.geekstudio.rickandmorty.R
 import kg.geekstudio.rickandmorty.databinding.FragmentLocationBinding
 import kg.geekstudio.rickandmorty.presentation.adapters.LocationPagingAdapter
 import kg.geekstudio.rickandmorty.presentation.adapters.paging.LoadStateAdapter
-import kg.geekstudio.rickandmorty.presentation.base.BaseFragment
+import kg.geekstudio.rickandmorty.core.base.BaseFragment
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class LocationFragment :

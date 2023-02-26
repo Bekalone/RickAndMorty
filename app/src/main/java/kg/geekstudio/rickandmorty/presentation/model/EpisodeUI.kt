@@ -1,7 +1,7 @@
 package kg.geekstudio.rickandmorty.presentation.model
 
 import kg.geekstudio.domain.model.Episode
-import kg.geekstudio.rickandmorty.presentation.base.BaseDiffModel
+import kg.geekstudio.rickandmorty.core.base.BaseDiffModel
 
 data class EpisodeUI(
     override val id: Int,

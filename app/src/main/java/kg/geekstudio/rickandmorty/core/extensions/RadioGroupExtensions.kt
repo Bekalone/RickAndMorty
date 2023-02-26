@@ -1,4 +1,4 @@
-package kg.geekstudio.rickandmorty.presentation.extensions
+package kg.geekstudio.rickandmorty.core.extensions
 
 import android.widget.RadioButton
 import android.widget.RadioGroup

@@ -1,4 +1,4 @@
-package kg.geekstudio.rickandmorty.presentation.extensions
+package kg.geekstudio.rickandmorty.core.extensions
 
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController

@@ -1,4 +1,4 @@
-package kg.geekstudio.rickandmorty.presentation.base
+package kg.geekstudio.rickandmorty.core.base
 
 import androidx.recyclerview.widget.DiffUtil
 

@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.RecyclerView.ViewHolder
 import coil.load
 import kg.geekstudio.rickandmorty.databinding.ItemCharacterBinding
 import kg.geekstudio.rickandmorty.databinding.ItemLocationBinding
-import kg.geekstudio.rickandmorty.presentation.base.BaseDiffUtil
+import kg.geekstudio.rickandmorty.core.base.BaseDiffUtil
 import kg.geekstudio.rickandmorty.presentation.model.CharacterUI
 import kg.geekstudio.rickandmorty.presentation.model.LocationUI
 

@@ -6,9 +6,9 @@ import by.kirich1409.viewbindingdelegate.viewBinding
 import kg.geekstudio.data.providers.PreferencesButton
 import kg.geekstudio.rickandmorty.R
 import kg.geekstudio.rickandmorty.databinding.FragmentFilterBinding
-import kg.geekstudio.rickandmorty.presentation.base.BaseFragmentWithoutViewModel
-import kg.geekstudio.rickandmorty.presentation.extensions.fragmentResult
-import kg.geekstudio.rickandmorty.presentation.extensions.setOnCheckedChangeListenerReturnsTheTextOfTheRadioButton
+import kg.geekstudio.rickandmorty.core.base.BaseFragmentWithoutViewModel
+import kg.geekstudio.rickandmorty.core.extensions.fragmentResult
+import kg.geekstudio.rickandmorty.core.extensions.setOnCheckedChangeListenerReturnsTheTextOfTheRadioButton
 import kg.geekstudio.rickandmorty.presentation.model.CharacterFilter
 import org.koin.android.ext.android.inject
 

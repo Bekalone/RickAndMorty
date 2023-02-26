@@ -1,4 +1,4 @@
-package kg.geekstudio.rickandmorty.presentation.base
+package kg.geekstudio.rickandmorty.core.base
 
 import android.os.Bundle
 import android.view.View
